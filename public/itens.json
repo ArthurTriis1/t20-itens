@@ -1416,7 +1416,7 @@
     "Local": [
       "Prado Verde"
     ],
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "balsamo_restaurador.png"
   },
   {
     "Equipamento": "Bomba",
@@ -1467,7 +1467,7 @@
     "Local": [
       "Prado Verde"
     ],
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "essencia_de_mana.png"
   },
   {
     "Equipamento": "Fogo alquímico",
@@ -1770,7 +1770,7 @@
     "Local": [
       "Prado Verde"
     ],
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "batata_valkariana.png"
   },
   {
     "Equipamento": "Gorad quente",
@@ -1785,7 +1785,7 @@
     "Local": [
       "Prado Verde"
     ],
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "gorad_quente.png"
   },
   {
     "Equipamento": "Macarrão de Yuvalin",
@@ -1800,7 +1800,7 @@
     "Local": [
       "Prado Verde"
     ],
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "macarrao_de_yuvalin.png"
   },
   {
     "Equipamento": "Prato do aventureiro",
@@ -1815,7 +1815,7 @@
     "Local": [
       "Prado Verde"
     ],
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "prato_do_aventureiro.png"
   },
   {
     "Equipamento": "Ração de viagem (por dia)",
@@ -1830,7 +1830,7 @@
     "Local": [
       "Prado Verde"
     ],
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "racao_de_viagem.png"
   },
   {
     "Equipamento": "Refeição comum",
@@ -1845,7 +1845,7 @@
     "Local": [
       "Prado Verde"
     ],
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "refeicao_comum.png"
   },
   {
     "Equipamento": "Sopa de peixe",
@@ -1860,7 +1860,7 @@
     "Local": [
       "Prado Verde"
     ],
-    "nome_arquivo_imagem": "refeicao_quente_ilustracao.png"
+    "nome_arquivo_imagem": "sopa_de_peixe.png"
   },
   {
     "Equipamento": "Alforje",
