@@ -628,7 +628,7 @@
     "Categoria": "Armadura",
     "Bônus na Defesa": "+2",
     "Penalidade de Armadura": "0",
-    "nome_arquivo_imagem": "",
+    "nome_arquivo_imagem": "armadura_de_couro.png",
     "Tipo de Armadura": "Leve"
   },
   {
@@ -810,7 +810,7 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Item - Aventura",
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "algemas.png"
   },
   {
     "Equipamento": "Arpéu",
@@ -822,7 +822,7 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Item - Aventura",
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "arpeu.png"
   },
   {
     "Equipamento": "Bandoleira de poções",
@@ -918,7 +918,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Item - Aventura",
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "oleo.png",
+    "Local": [
+      "Bordeis"
+    ]
   },
   {
     "Equipamento": "Organizador de pergaminhos",
@@ -1002,7 +1005,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Ferramenta",
-    "nome_arquivo_imagem": "alaude_elfico_ilustracao.png"
+    "nome_arquivo_imagem": "alaude_elfico_ilustracao.png",
+    "Local": [
+      "Bordeis"
+    ]
   },
   {
     "Equipamento": "Coleção de livros",
@@ -1038,7 +1044,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Ferramenta",
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "estojo_de_disfarces.png",
+    "Local": [
+      "Bordeis"
+    ]
   },
   {
     "Equipamento": "Flauta mística",
@@ -1158,7 +1167,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Vestuário",
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "bandana.png",
+    "Local": [
+      "Bordeis"
+    ]
   },
   {
     "Equipamento": "Botas reforçadas",
@@ -1182,7 +1194,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Vestuário",
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "camisa_bufante.png",
+    "Local": [
+      "Bordeis"
+    ]
   },
   {
     "Equipamento": "Capa esvoaçante",
@@ -1362,7 +1377,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Vestuário",
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "traje_da_corte.png",
+    "Local": [
+      "Bordeis"
+    ]
   },
   {
     "Equipamento": "Traje de viajante",
@@ -1386,7 +1404,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Vestuário",
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "veste_de_seda.png",
+    "Local": [
+      "Bordeis"
+    ]
   },
   {
     "Equipamento": "Bolsa de pó",
@@ -1437,7 +1458,7 @@
     "Local": [
       "Bazar sombrio"
     ],
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "costela_de_lich.png"
   },
   {
     "Equipamento": "Dedo de ente",
@@ -1452,7 +1473,7 @@
     "Local": [
       "Bazar sombrio"
     ],
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "dedo_de_ente.png"
   },
   {
     "Equipamento": "Luva de ferro",
@@ -1524,7 +1545,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Alquímico - Preparado",
-    "nome_arquivo_imagem": "bombas_e_frascos_alquimicos.jpeg"
+    "nome_arquivo_imagem": "bombas_e_frascos_alquimicos.jpeg",
+    "Local": [
+      "Laboratório Alquímico"
+    ]
   },
   {
     "Equipamento": "Bálsamo restaurador",
@@ -1537,7 +1561,8 @@
     "Tipo": "",
     "Categoria": "Alquímico - Preparado",
     "Local": [
-      "Prado Verde"
+      "Prado Verde",
+      "Laboratório Alquímico"
     ],
     "nome_arquivo_imagem": "balsamo_restaurador.png"
   },
@@ -1563,7 +1588,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Alquímico - Preparado",
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "cosmetico.png",
+    "Local": [
+      "Bordeis"
+    ]
   },
   {
     "Equipamento": "Elixir do amor",
@@ -1575,7 +1603,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Alquímico - Preparado",
-    "nome_arquivo_imagem": "Elixir do amor.png"
+    "nome_arquivo_imagem": "Elixir do amor.png",
+    "Local": [
+      "Bordeis"
+    ]
   },
   {
     "Equipamento": "Essência de mana",
@@ -1602,7 +1633,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Alquímico - Preparado",
-    "nome_arquivo_imagem": "bombas_e_frascos_alquimicos.jpeg"
+    "nome_arquivo_imagem": "bombas_e_frascos_alquimicos.jpeg",
+    "Local": [
+      "Laboratório Alquímico"
+    ]
   },
   {
     "Equipamento": "Pó do desaparecimento",
@@ -1614,7 +1648,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Alquímico - Preparado",
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "po_do_desaparecimento.png",
+    "Local": [
+      "Bordeis"
+    ]
   },
   {
     "Equipamento": "Baga-de-fogo",
@@ -1653,7 +1690,7 @@
     "Local": [
       "Bazar sombrio"
     ],
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "essencia_abissal.png"
   },
   {
     "Equipamento": "Líquen lilás",
@@ -1665,7 +1702,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Alquímico - Catalisador",
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "liquen_lilas.png",
+    "Local": [
+      "Laboratório Alquímico"
+    ]
   },
   {
     "Equipamento": "Musgo púrpura",
@@ -1677,7 +1717,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Alquímico - Catalisador",
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "musgo_purpura.png",
+    "Local": [
+      "Laboratório Alquímico"
+    ]
   },
   {
     "Equipamento": "Ossos de monstro",
@@ -1692,7 +1735,7 @@
     "Local": [
       "Bazar sombrio"
     ],
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "ossos_de_monstro.png"
   },
   {
     "Equipamento": "Pó de cristal",
@@ -1767,7 +1810,7 @@
     "Local": [
       "Bazar sombrio"
     ],
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "terra_de_cemiterio.png"
   },
   {
     "Equipamento": "Beladona",
@@ -1779,7 +1822,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Alquímico - Veneno",
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "beladona.png",
+    "Local": [
+      "Laboratório Alquímico"
+    ]
   },
   {
     "Equipamento": "Bruma sonolenta",
@@ -1791,7 +1837,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Alquímico - Veneno",
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "bruma_sonolenta.png",
+    "Local": [
+      "Bordeis"
+    ]
   },
   {
     "Equipamento": "Cicuta",
@@ -1827,7 +1876,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Alquímico - Veneno",
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "nevoa_toxica.png",
+    "Local": [
+      "Laboratório Alquímico"
+    ]
   },
   {
     "Equipamento": "Peçonha comum",
@@ -1878,7 +1930,7 @@
     "Local": [
       "Bazar sombrio"
     ],
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "po_de_lich.png"
   },
   {
     "Equipamento": "Riso de Nimb",
@@ -1918,7 +1970,8 @@
     "Tipo": "",
     "Categoria": "Alimentação",
     "Local": [
-      "Prado Verde"
+      "Prado Verde",
+      "Bordeis"
     ],
     "nome_arquivo_imagem": "gorad_quente.png"
   },
@@ -2175,7 +2228,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Serviço",
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "estadia_confortavel_por_noite_.png",
+    "Local": [
+      "Bordeis"
+    ]
   },
   {
     "Equipamento": "Estadia luxuosa (por noite)",
@@ -2187,7 +2243,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Serviço",
-    "nome_arquivo_imagem": ""
+    "nome_arquivo_imagem": "estadia_luxuosa_por_noite_.png",
+    "Local": [
+      "Bordeis"
+    ]
   },
   {
     "Equipamento": "Condução terrestre",

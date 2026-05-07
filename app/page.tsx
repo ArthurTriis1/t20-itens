@@ -16,6 +16,8 @@ type Item = {
   Local?: string[];
   "Bônus na Defesa"?: string;
   "Penalidade de Armadura"?: string;
+  "Tipo de Armadura"?: string;
+  Proficiência?: string;
   nome_arquivo_imagem?: string;
   [key: string]: unknown;
 };
@@ -364,6 +366,8 @@ function CatalogPage() {
                 {field("Crítico", current.Crítico)}
                 {field("Alcance", current.Alcance)}
                 {field("Tipo", current.Tipo)}
+                {current.Proficiência ? field("Proficiência", current.Proficiência) : null}
+                {current["Tipo de Armadura"] ? field("Tipo de Armadura", current["Tipo de Armadura"]) : null}
                 {current["Bônus na Defesa"] ? field("Bônus na Defesa", current["Bônus na Defesa"]) : null}
                 {current["Penalidade de Armadura"] ? field("Penalidade de Armadura", current["Penalidade de Armadura"]) : null}
                 {Array.isArray(current.Local) && current.Local.length > 0
