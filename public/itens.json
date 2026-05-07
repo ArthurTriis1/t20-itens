@@ -9,7 +9,8 @@
     "Alcance": "Curto",
     "Tipo": "Perfuração",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "adagas_katana_curva.jpeg"
+    "nome_arquivo_imagem": "adagas_katana_curva.jpeg",
+    "Proficiência": "Simples"
   },
   {
     "Equipamento": "Espada curta",
@@ -21,7 +22,11 @@
     "Alcance": "",
     "Tipo": "Perfuração",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "espadas_curtas_espadas_longas_espadas_bastardas.jpeg"
+    "Local": [
+      "Bazar sombrio"
+    ],
+    "nome_arquivo_imagem": "espadas_curtas_espadas_longas_espadas_bastardas.jpeg",
+    "Proficiência": "Simples"
   },
   {
     "Equipamento": "Foice",
@@ -33,7 +38,11 @@
     "Alcance": "",
     "Tipo": "Corte",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "foices_chicote.jpeg"
+    "Local": [
+      "Bazar sombrio"
+    ],
+    "nome_arquivo_imagem": "foices_chicote.jpeg",
+    "Proficiência": "Simples"
   },
   {
     "Equipamento": "Clava",
@@ -45,7 +54,8 @@
     "Alcance": "",
     "Tipo": "Impacto",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "clavas.jpeg"
+    "nome_arquivo_imagem": "clavas.jpeg",
+    "Proficiência": "Simples"
   },
   {
     "Equipamento": "Lança",
@@ -57,7 +67,8 @@
     "Alcance": "Curto",
     "Tipo": "Perfuração",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "lancas_e_lancas_montadas.jpeg"
+    "nome_arquivo_imagem": "lancas_e_lancas_montadas.jpeg",
+    "Proficiência": "Simples"
   },
   {
     "Equipamento": "Maça",
@@ -69,7 +80,11 @@
     "Alcance": "",
     "Tipo": "Impacto",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "macas.jpeg"
+    "Local": [
+      "Bazar sombrio"
+    ],
+    "nome_arquivo_imagem": "macas.jpeg",
+    "Proficiência": "Simples"
   },
   {
     "Equipamento": "Bordão",
@@ -81,7 +96,8 @@
     "Alcance": "",
     "Tipo": "Impacto",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "bordoes.jpeg"
+    "nome_arquivo_imagem": "bordoes.jpeg",
+    "Proficiência": "Simples"
   },
   {
     "Equipamento": "Pique",
@@ -93,7 +109,8 @@
     "Alcance": "",
     "Tipo": "Perfuração",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "piques.jpeg"
+    "nome_arquivo_imagem": "piques.jpeg",
+    "Proficiência": "Simples"
   },
   {
     "Equipamento": "Tacape",
@@ -105,7 +122,8 @@
     "Alcance": "",
     "Tipo": "Impacto",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "tacapes.jpeg"
+    "nome_arquivo_imagem": "tacapes.jpeg",
+    "Proficiência": "Simples"
   },
   {
     "Equipamento": "Azagaia",
@@ -117,7 +135,8 @@
     "Alcance": "Médio",
     "Tipo": "Perfuração",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "azagaias.jpeg"
+    "nome_arquivo_imagem": "azagaias.jpeg",
+    "Proficiência": "Simples"
   },
   {
     "Equipamento": "Besta leve",
@@ -129,7 +148,8 @@
     "Alcance": "Médio",
     "Tipo": "Perfuração",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "besta_leve.jpeg"
+    "nome_arquivo_imagem": "besta_leve.jpeg",
+    "Proficiência": "Simples"
   },
   {
     "Equipamento": "Funda",
@@ -141,7 +161,8 @@
     "Alcance": "Médio",
     "Tipo": "Impacto",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "fundas.jpeg"
+    "nome_arquivo_imagem": "fundas.jpeg",
+    "Proficiência": "Simples"
   },
   {
     "Equipamento": "Arco curto",
@@ -153,7 +174,8 @@
     "Alcance": "Médio",
     "Tipo": "Perfuração",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "arcos_curtos.jpeg"
+    "nome_arquivo_imagem": "arcos_curtos.jpeg",
+    "Proficiência": "Simples"
   },
   {
     "Equipamento": "Machadinha",
@@ -165,7 +187,8 @@
     "Alcance": "Curto",
     "Tipo": "Corte",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "machadinhas_machado_de_batalha.jpeg"
+    "nome_arquivo_imagem": "machadinhas_machado_de_batalha.jpeg",
+    "Proficiência": "Marcial"
   },
   {
     "Equipamento": "Cimitarra",
@@ -177,7 +200,11 @@
     "Alcance": "",
     "Tipo": "Corte",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "cimitarras_alfanges.jpeg"
+    "Local": [
+      "Bazar sombrio"
+    ],
+    "nome_arquivo_imagem": "cimitarras_alfanges.jpeg",
+    "Proficiência": "Marcial"
   },
   {
     "Equipamento": "Espada longa",
@@ -189,7 +216,8 @@
     "Alcance": "",
     "Tipo": "Corte",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "espadas_curtas_espadas_longas_espadas_bastardas.jpeg"
+    "nome_arquivo_imagem": "espadas_curtas_espadas_longas_espadas_bastardas.jpeg",
+    "Proficiência": "Marcial"
   },
   {
     "Equipamento": "Florete",
@@ -201,7 +229,8 @@
     "Alcance": "",
     "Tipo": "Perfuração",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "floretes_montantes.jpeg"
+    "nome_arquivo_imagem": "floretes_montantes.jpeg",
+    "Proficiência": "Marcial"
   },
   {
     "Equipamento": "Machado de batalha",
@@ -213,7 +242,11 @@
     "Alcance": "",
     "Tipo": "Corte",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "machadinhas_machado_de_batalha.jpeg"
+    "Local": [
+      "Bazar sombrio"
+    ],
+    "nome_arquivo_imagem": "machadinhas_machado_de_batalha.jpeg",
+    "Proficiência": "Marcial"
   },
   {
     "Equipamento": "Mangual",
@@ -225,7 +258,8 @@
     "Alcance": "",
     "Tipo": "Impacto",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "manguais.jpeg"
+    "nome_arquivo_imagem": "manguais.jpeg",
+    "Proficiência": "Marcial"
   },
   {
     "Equipamento": "Martelo de guerra",
@@ -237,7 +271,8 @@
     "Alcance": "",
     "Tipo": "Impacto",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "marreta_martelo_de_guerra.jpeg"
+    "nome_arquivo_imagem": "marreta_martelo_de_guerra.jpeg",
+    "Proficiência": "Marcial"
   },
   {
     "Equipamento": "Picareta",
@@ -249,7 +284,8 @@
     "Alcance": "",
     "Tipo": "Perfuração",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "machado_e_picareta.jpeg"
+    "nome_arquivo_imagem": "machado_e_picareta.jpeg",
+    "Proficiência": "Marcial"
   },
   {
     "Equipamento": "Tridente",
@@ -261,7 +297,11 @@
     "Alcance": "Curto",
     "Tipo": "Perfuração",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "tridentes.jpeg"
+    "Local": [
+      "Bazar sombrio"
+    ],
+    "nome_arquivo_imagem": "tridentes.jpeg",
+    "Proficiência": "Marcial"
   },
   {
     "Equipamento": "Alabarda",
@@ -273,7 +313,8 @@
     "Alcance": "",
     "Tipo": "Corte/Perfuração",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "alabardas.jpeg"
+    "nome_arquivo_imagem": "alabardas.jpeg",
+    "Proficiência": "Marcial"
   },
   {
     "Equipamento": "Alfange",
@@ -285,7 +326,8 @@
     "Alcance": "",
     "Tipo": "Corte",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "cimitarras_alfanges.jpeg"
+    "nome_arquivo_imagem": "cimitarras_alfanges.jpeg",
+    "Proficiência": "Marcial"
   },
   {
     "Equipamento": "Gadanho",
@@ -297,7 +339,8 @@
     "Alcance": "",
     "Tipo": "Corte",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "alabarda_gadanho.jpeg"
+    "nome_arquivo_imagem": "alabarda_gadanho.jpeg",
+    "Proficiência": "Marcial"
   },
   {
     "Equipamento": "Lança montada",
@@ -309,7 +352,8 @@
     "Alcance": "",
     "Tipo": "Perfuração",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "lancas_e_lancas_montadas.jpeg"
+    "nome_arquivo_imagem": "lancas_e_lancas_montadas.jpeg",
+    "Proficiência": "Marcial"
   },
   {
     "Equipamento": "Machado de guerra",
@@ -321,7 +365,8 @@
     "Alcance": "",
     "Tipo": "Corte",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "machado_anao_machado_de_guerra.jpeg"
+    "nome_arquivo_imagem": "machado_anao_machado_de_guerra.jpeg",
+    "Proficiência": "Marcial"
   },
   {
     "Equipamento": "Marreta",
@@ -333,7 +378,8 @@
     "Alcance": "",
     "Tipo": "Impacto",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "marreta_martelo_de_guerra.jpeg"
+    "nome_arquivo_imagem": "marreta_martelo_de_guerra.jpeg",
+    "Proficiência": "Marcial"
   },
   {
     "Equipamento": "Montante",
@@ -345,7 +391,8 @@
     "Alcance": "",
     "Tipo": "Corte",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "floretes_montantes.jpeg"
+    "nome_arquivo_imagem": "floretes_montantes.jpeg",
+    "Proficiência": "Marcial"
   },
   {
     "Equipamento": "Arco longo",
@@ -357,7 +404,8 @@
     "Alcance": "Médio",
     "Tipo": "Perfuração",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "arcos_longos.jpeg"
+    "nome_arquivo_imagem": "arcos_longos.jpeg",
+    "Proficiência": "Marcial"
   },
   {
     "Equipamento": "Besta pesada",
@@ -369,7 +417,8 @@
     "Alcance": "Médio",
     "Tipo": "Perfuração",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "besta_pesada_ornamentada.jpeg"
+    "nome_arquivo_imagem": "besta_pesada_ornamentada.jpeg",
+    "Proficiência": "Marcial"
   },
   {
     "Equipamento": "Chicote",
@@ -381,7 +430,11 @@
     "Alcance": "",
     "Tipo": "Corte",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "chicote.jpeg"
+    "Local": [
+      "Bazar sombrio"
+    ],
+    "nome_arquivo_imagem": "chicote.jpeg",
+    "Proficiência": "Exótica"
   },
   {
     "Equipamento": "Espada bastarda",
@@ -393,7 +446,8 @@
     "Alcance": "",
     "Tipo": "Corte",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "espadas_curtas_espadas_longas_espadas_bastardas.jpeg"
+    "nome_arquivo_imagem": "espadas_curtas_espadas_longas_espadas_bastardas.jpeg",
+    "Proficiência": "Exótica"
   },
   {
     "Equipamento": "Katana",
@@ -405,7 +459,11 @@
     "Alcance": "",
     "Tipo": "Corte",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "katana.jpeg"
+    "Local": [
+      "Bazar sombrio"
+    ],
+    "nome_arquivo_imagem": "katana.jpeg",
+    "Proficiência": "Exótica"
   },
   {
     "Equipamento": "Machado anão",
@@ -417,7 +475,8 @@
     "Alcance": "",
     "Tipo": "Corte",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "machado_anao_machado_de_guerra.jpeg"
+    "nome_arquivo_imagem": "machado_anao_machado_de_guerra.jpeg",
+    "Proficiência": "Exótica"
   },
   {
     "Equipamento": "Corrente de espinhos",
@@ -429,7 +488,8 @@
     "Alcance": "",
     "Tipo": "Corte",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "correntes_de_espinhos.jpeg"
+    "nome_arquivo_imagem": "correntes_de_espinhos.jpeg",
+    "Proficiência": "Exótica"
   },
   {
     "Equipamento": "Machado táurico",
@@ -441,7 +501,11 @@
     "Alcance": "",
     "Tipo": "Corte",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "machados_tauricos.jpeg"
+    "Local": [
+      "Bazar sombrio"
+    ],
+    "nome_arquivo_imagem": "machados_tauricos.jpeg",
+    "Proficiência": "Exótica"
   },
   {
     "Equipamento": "Rede",
@@ -453,7 +517,8 @@
     "Alcance": "Curto",
     "Tipo": "",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "rede.jpeg"
+    "nome_arquivo_imagem": "rede.jpeg",
+    "Proficiência": "Exótica"
   },
   {
     "Equipamento": "Pistola",
@@ -465,7 +530,8 @@
     "Alcance": "Curto",
     "Tipo": "Perfuração",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "pistolas_e_arma_de_fogo.jpeg"
+    "nome_arquivo_imagem": "pistolas_e_arma_de_fogo.jpeg",
+    "Proficiência": "De Fogo"
   },
   {
     "Equipamento": "Mosquete",
@@ -477,7 +543,8 @@
     "Alcance": "Médio",
     "Tipo": "Perfuração",
     "Categoria": "Arma",
-    "nome_arquivo_imagem": "mosquetes_e_pistola.jpeg"
+    "nome_arquivo_imagem": "mosquetes_e_pistola.jpeg",
+    "Proficiência": "De Fogo"
   },
   {
     "Equipamento": "Balas",
@@ -489,7 +556,8 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Munição",
-    "nome_arquivo_imagem": "balas_bolsa.jpeg"
+    "nome_arquivo_imagem": "balas_bolsa.jpeg",
+    "Proficiência": "De Fogo"
   },
   {
     "Equipamento": "Flechas",
@@ -501,7 +569,8 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Munição",
-    "nome_arquivo_imagem": "flechas_aljavas.jpeg"
+    "nome_arquivo_imagem": "flechas_aljavas.jpeg",
+    "Proficiência": "Simples"
   },
   {
     "Equipamento": "Pedras",
@@ -513,7 +582,8 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Munição",
-    "nome_arquivo_imagem": "pedras_bolsa.jpeg"
+    "nome_arquivo_imagem": "pedras_bolsa.jpeg",
+    "Proficiência": "Simples"
   },
   {
     "Equipamento": "Virotes",
@@ -525,7 +595,8 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Munição",
-    "nome_arquivo_imagem": "bestas_diversas.jpeg"
+    "nome_arquivo_imagem": "bestas_diversas.jpeg",
+    "Proficiência": "Simples"
   },
   {
     "Equipamento": "Armadura acolchoada",
@@ -537,7 +608,13 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Armadura",
-    "nome_arquivo_imagem": "armadura_acolchoada.jpeg"
+    "Bônus na Defesa": "+1",
+    "Penalidade de Armadura": "0",
+    "Local": [
+      "Bazar sombrio"
+    ],
+    "nome_arquivo_imagem": "armadura_acolchoada.jpeg",
+    "Tipo de Armadura": "Leve"
   },
   {
     "Equipamento": "Armadura de couro",
@@ -549,7 +626,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Armadura",
-    "nome_arquivo_imagem": ""
+    "Bônus na Defesa": "+2",
+    "Penalidade de Armadura": "0",
+    "nome_arquivo_imagem": "",
+    "Tipo de Armadura": "Leve"
   },
   {
     "Equipamento": "Couro batido",
@@ -561,7 +641,13 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Armadura",
-    "nome_arquivo_imagem": "couro_batido.jpeg"
+    "Bônus na Defesa": "+3",
+    "Penalidade de Armadura": "-1",
+    "Local": [
+      "Bazar sombrio"
+    ],
+    "nome_arquivo_imagem": "couro_batido.jpeg",
+    "Tipo de Armadura": "Leve"
   },
   {
     "Equipamento": "Gibão de peles",
@@ -573,7 +659,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Armadura",
-    "nome_arquivo_imagem": "gibao_de_peles.jpeg"
+    "Bônus na Defesa": "+4",
+    "Penalidade de Armadura": "-3",
+    "nome_arquivo_imagem": "gibao_de_peles.jpeg",
+    "Tipo de Armadura": "Leve"
   },
   {
     "Equipamento": "Couraça",
@@ -585,7 +674,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Armadura",
-    "nome_arquivo_imagem": "couraca.jpeg"
+    "Bônus na Defesa": "+5",
+    "Penalidade de Armadura": "-4",
+    "nome_arquivo_imagem": "couraca.jpeg",
+    "Tipo de Armadura": "Leve"
   },
   {
     "Equipamento": "Brunea",
@@ -597,7 +689,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Armadura",
-    "nome_arquivo_imagem": "brunea.jpeg"
+    "Bônus na Defesa": "+5",
+    "Penalidade de Armadura": "-2",
+    "nome_arquivo_imagem": "brunea.jpeg",
+    "Tipo de Armadura": "Pesada"
   },
   {
     "Equipamento": "Cota de malha",
@@ -609,7 +704,13 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Armadura",
-    "nome_arquivo_imagem": "cota_de_malha.jpeg"
+    "Bônus na Defesa": "+6",
+    "Penalidade de Armadura": "-2",
+    "Local": [
+      "Bazar sombrio"
+    ],
+    "nome_arquivo_imagem": "cota_de_malha.jpeg",
+    "Tipo de Armadura": "Pesada"
   },
   {
     "Equipamento": "Loriga segmentada",
@@ -621,7 +722,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Armadura",
-    "nome_arquivo_imagem": "loriga_segmentada.jpeg"
+    "Bônus na Defesa": "+7",
+    "Penalidade de Armadura": "-3",
+    "nome_arquivo_imagem": "loriga_segmentada.jpeg",
+    "Tipo de Armadura": "Pesada"
   },
   {
     "Equipamento": "Meia armadura",
@@ -633,7 +737,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Armadura",
-    "nome_arquivo_imagem": "meia_armadura.jpeg"
+    "Bônus na Defesa": "+8",
+    "Penalidade de Armadura": "-4",
+    "nome_arquivo_imagem": "meia_armadura.jpeg",
+    "Tipo de Armadura": "Pesada"
   },
   {
     "Equipamento": "Armadura completa",
@@ -645,7 +752,10 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Armadura",
-    "nome_arquivo_imagem": "armadura_completa.jpeg"
+    "Bônus na Defesa": "+10",
+    "Penalidade de Armadura": "-5",
+    "nome_arquivo_imagem": "armadura_completa.jpeg",
+    "Tipo de Armadura": "Pesada"
   },
   {
     "Equipamento": "Escudo leve",
@@ -657,6 +767,11 @@
     "Alcance": "",
     "Tipo": "Impacto",
     "Categoria": "Escudo",
+    "Bônus na Defesa": "+1",
+    "Penalidade de Armadura": "-1",
+    "Local": [
+      "Bazar sombrio"
+    ],
     "nome_arquivo_imagem": "escudo_leve_redondo.jpeg"
   },
   {
@@ -669,6 +784,8 @@
     "Alcance": "",
     "Tipo": "Impacto",
     "Categoria": "Escudo",
+    "Bônus na Defesa": "+2",
+    "Penalidade de Armadura": "-2",
     "nome_arquivo_imagem": "escudo_pesado_azul.jpeg"
   },
   {
@@ -1317,6 +1434,9 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Esotérico",
+    "Local": [
+      "Bazar sombrio"
+    ],
     "nome_arquivo_imagem": ""
   },
   {
@@ -1329,6 +1449,9 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Esotérico",
+    "Local": [
+      "Bazar sombrio"
+    ],
     "nome_arquivo_imagem": ""
   },
   {
@@ -1527,6 +1650,9 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Alquímico - Catalisador",
+    "Local": [
+      "Bazar sombrio"
+    ],
     "nome_arquivo_imagem": ""
   },
   {
@@ -1563,6 +1689,9 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Alquímico - Catalisador",
+    "Local": [
+      "Bazar sombrio"
+    ],
     "nome_arquivo_imagem": ""
   },
   {
@@ -1635,6 +1764,9 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Alquímico - Catalisador",
+    "Local": [
+      "Bazar sombrio"
+    ],
     "nome_arquivo_imagem": ""
   },
   {
@@ -1743,6 +1875,9 @@
     "Alcance": "",
     "Tipo": "",
     "Categoria": "Alquímico - Veneno",
+    "Local": [
+      "Bazar sombrio"
+    ],
     "nome_arquivo_imagem": ""
   },
   {
